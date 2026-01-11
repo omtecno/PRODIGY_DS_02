@@ -94,18 +94,18 @@ The following preprocessing steps were applied:
 - **Seaborn** – statistical visualizations
 
 🚀 How to Replicate
-Prerequisites
 pip install pandas==2.0.3 numpy==1.24.3 matplotlib==3.7.2 seaborn==0.12.2 jupyter==1.0.0
 
 
 # 1. Clone repository
-
+git clone https://github.com/YOUR_USERNAME/PRODIGY_DS_02.git
 cd PRODIGY_DS_02
 
 # 2. Launch Jupyter
 jupyter notebook
 
 # 3. Open notebook
-Untitled5.ipynb
+task02_titanic_eda.ipynb
 
 # 4. Run all cells (Ctrl+F9) - ~5 minutes execution
+
