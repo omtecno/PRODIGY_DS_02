@@ -51,27 +51,39 @@ The following preprocessing steps were applied:
 ### 1️⃣ Age Distribution (Histogram)
 - Shows the overall distribution of passenger ages
 - Most passengers fall between **20–40 years**
+- <img width="772" height="597" alt="Age Distribution of Passengers" src="https://github.com/user-attachments/assets/edaf04bd-b25d-4038-a7e5-7daf67e80036" />
+
 
 ### 2️⃣ Age Density Plot (KDE)
 - Smooth visualization of age concentration
 - Helps understand passenger age trends
+- <img width="787" height="597" alt="Age Density Distribution" src="https://github.com/user-attachments/assets/f2c6b05a-784c-433a-a055-d0f899a7955f" />
+
 
 ### 3️⃣ Age Box Plot
 - Identifies **outliers** and age spread
 - Median age around early 30s
+- <img width="693" height="592" alt="Age Distribution (Box Plot)" src="https://github.com/user-attachments/assets/e62a53a2-c973-41fc-a7ca-7706026a40dc" />
+
 
 ### 4️⃣ Passenger Count by Gender
 - Visual comparison of **male vs female** passengers
 - Male passengers are the majority
+- <img width="812" height="603" alt="Passenger Count by Gender" src="https://github.com/user-attachments/assets/09eccea3-d1b9-4fc2-b019-0586ffa0250c" />
+
 
 ### 5️⃣ Passenger Distribution by Class
 - Most passengers belong to **3rd class**
 - Fewer passengers in **1st class**
+- <img width="821" height="593" alt="Passenger Distribution by Class" src="https://github.com/user-attachments/assets/1a346feb-6f23-47d5-9bdc-3ad10e424b18" />
+
 
 ### 6️⃣ Age vs Fare Scatter Plot
 - Shows relationship between passenger age and ticket fare
 - Higher fares are mostly associated with **older passengers**
 - Indicates class-based pricing trends
+- <img width="816" height="605" alt="Scatter plot of Age and Fare" src="https://github.com/user-attachments/assets/a0699731-aeb0-4fc4-beaa-2842451317f5" />
+
 
 ---
 
