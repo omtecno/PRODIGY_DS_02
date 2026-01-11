@@ -94,12 +94,13 @@ The following preprocessing steps were applied:
 - **Seaborn** – statistical visualizations
 
 
-##🚀 How to Replicate
-#✅ Prerequisites
+🚀 ##How to Replicate
+✅ #Prerequisites
 
 Before running this project, ensure the following requirements are met:
 
-🔹 Software Requirements
+🔹 #Software Requirements
+pip install pandas==2.0.3 numpy==1.24.3 matplotlib==3.7.2 seaborn==0.12.2 jupyter==1.0.0
 
 Python 3.7 or higher
 
