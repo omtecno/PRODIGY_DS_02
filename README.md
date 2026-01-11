@@ -56,27 +56,39 @@ The following preprocessing steps were applied:
 ### 1️⃣ Age Distribution (Histogram)
 - Displays overall passenger age distribution  
 - Majority of passengers are aged **20–40 years**
+- <img width="772" height="597" alt="Age Distribution of Passengers" src="https://github.com/user-attachments/assets/f1d65185-fb1b-4f63-9385-801f08c1bba1" />
+
 
 ### 2️⃣ Age Density Plot (KDE)
 - Smooth curve showing age concentration
 - Highlights dominant age groups
+- <img width="787" height="597" alt="Age Density Distribution" src="https://github.com/user-attachments/assets/fcf0682a-a1d8-41bf-a115-d08d78378b11" />
+
 
 ### 3️⃣ Age Box Plot
 - Reveals age spread and outliers
 - Median age lies in the **early 30s**
+- <img width="693" height="592" alt="Age Distribution (Box Plot)" src="https://github.com/user-attachments/assets/8dee9ffe-9ed0-4095-b8fd-2215a2019e32" />
+
 
 ### 4️⃣ Passenger Count by Gender
 - Comparison of male vs female passengers
 - **Male passengers are the majority**
+- <img width="812" height="603" alt="Passenger Count by Gender" src="https://github.com/user-attachments/assets/fa5b8fda-0bb2-4073-bc3f-8555093de0cc" />
+
 
 ### 5️⃣ Passenger Distribution by Class
 - Majority traveled in **3rd class**
 - Fewer passengers in **1st class**
+- <img width="821" height="593" alt="Passenger Distribution by Class" src="https://github.com/user-attachments/assets/84306c44-cc64-43bd-a202-a42cb00c3c31" />
+
 
 ### 6️⃣ Age vs Fare Scatter Plot
 - Shows relationship between passenger age and fare
 - Higher fares are generally associated with older passengers
 - Indicates class-based pricing trends
+- <img width="816" height="605" alt="Scatter plot of Age and Fare" src="https://github.com/user-attachments/assets/107001b7-6b40-48c3-aad6-2e9c4c76ee03" />
+
 
 ---
 
@@ -96,3 +108,15 @@ Install required libraries:
 
 ```bash
 pip install pandas==2.0.3 numpy==1.24.3 matplotlib==3.7.2 seaborn==0.12.2 jupyter==1.0.0
+
+# 1. Clone repository
+https://github.com/omtecno/PRODIGY_DS_02/tree/main
+cd PRODIGY_DS_02
+
+# 2. Launch Jupyter
+jupyter notebook
+
+# 3. Open notebook
+Untitled5.ipynb
+
+# 4. Run all cells (Ctrl+F9) - ~5 minutes execution
