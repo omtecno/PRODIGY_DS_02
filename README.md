@@ -103,6 +103,8 @@ Before running this project, ensure the following requirements are met:
 
 Python 3.7 or higher
 
+https://github.com/omtecno/PRODIGY_DS_02/tree/main
+
 Any Python IDE or environment such as:
 
 Jupyter Notebook
